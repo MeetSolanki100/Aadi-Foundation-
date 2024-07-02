@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3 {
+    color: #333;
+    text-align: center;
+}
+.contact-info {
+    margin-bottom: 20px;
+}
+.contact-info a {
+    text-decoration: none;
+    color: #0073e6;
+    margin-right: 15px;
+}
+.section {
+    margin-bottom: 20px;
+}
+.project, .experience {
+    margin-bottom: 15px;
+}
+.project-title, .experience-title {
+    font-weight: bold;
+}
+.project-date, .experience-date {
+    font-style: italic;
+    text-align: right;
+    color: #777;
+}
